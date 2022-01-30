@@ -1,4 +1,5 @@
 # A03
+<strong>PartI</strong>
 Follow the steps below in order to setup your Github account:
 1. Go to the Gituhb website: https://github.com/
 2. On top of the page click on the Sign up.  Enter your email address and choose a strong password.
