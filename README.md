@@ -1,5 +1,6 @@
 # A03
-<strong>PartI</strong>
+<strong>PartI:</strong>
+<br>
 Follow the steps below in order to setup your Github account:
 1. Go to the Gituhb website: https://github.com/
 2. On top of the page click on the Sign up.  Enter your email address and choose a strong password.
@@ -19,7 +20,8 @@ Follow the steps below to setup your Webstorm Software:
 9. You will see a pop-up page to add you license.  Use the email address you used for applying for the license.  Write your password and login.  
 10. Your license will be applied and you are able to use the software.
 
-Part II:
+<br>
+<strong>Part II:</strong>
 Glossary to include these terms in a bulleted list.
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 <ul>
