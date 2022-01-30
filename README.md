@@ -26,12 +26,12 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
    <li>Clone</li>
    <li>Commit</li>
   <li><strong>Fetch</strong></li>
-   <li>strong>GIT</strong></li>
-   <li>strong>Github</strong></li>
+   <li><strong>GIT</strong></li>
+   <li><strong>Github</strong></li>
    <li>Merge Conflictli>
    <li>Pull</li>
    <li>Remote</li>
-  <li>strong>Repository</strong></li>
+  <li><strong>Repository</strong></li>
  
   </ul>
 
