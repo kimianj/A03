@@ -1,5 +1,5 @@
 # A03
-<strong>PartI:</strong>
+<strong>Part I:</strong>
 <br>
 Follow the steps below in order to setup your Github account:
 1. Go to the Gituhb website: https://github.com/
@@ -22,6 +22,7 @@ Follow the steps below to setup your Webstorm Software:
 
 <br>
 <strong>Part II:</strong>
+<br>
 Glossary to include these terms in a bulleted list.
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 <ul>
