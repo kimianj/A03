@@ -16,6 +16,8 @@ Task: Creat the Readme file
 10. Make your repository public, and add a ReadMe file.
 11. Then click on Creat.
 12. You are able to edit the file by clicking on the pencil icon which is placed on top right of the ReadMe file.
+
+
 <br>
 Follow the steps below to setup your Webstorm Software:
 1. Go to the JetBrain website for downloading the software :https://www.jetbrains.com/webstorm/download/#section=windows
@@ -28,6 +30,7 @@ Follow the steps below to setup your Webstorm Software:
 8. After receiving the confermation email that your student license is activated, open up your Webstorm software.
 9. You will see a pop-up page to add you license.  Use the email address you used for applying for the license.  Write your password and login.  
 10. Your license will be applied and you are able to use the software.
+
 
 <br>
 <strong>Part II:</strong>
