@@ -31,7 +31,7 @@ Follow the steps below to setup your Webstorm Software:
 9. You will see a pop-up page to add you license.  Use the email address you used for applying for the license.  Write your password and login.  
 10. Your license will be applied and you are able to use the software.
 
-
+<br>
 <br>
 <strong>Part II:</strong>
 <br>
