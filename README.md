@@ -18,9 +18,7 @@ Task: Creat the Readme file
 12. You are able to edit the file by clicking on the pencil icon which is placed on top right of the ReadMe file.
 
 
-<br>
 Follow the steps below to setup your Webstorm Software:
-<br>
 1. Go to the JetBrain website for downloading the software :https://www.jetbrains.com/webstorm/download/#section=windows
 2. Baed on your computer's OS choose the correct version and download it.
 3. After you download the software, open it and install it on your device.
