@@ -23,17 +23,26 @@ Glossary to include these terms in a bulleted list.
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 <ul>
   <li>Branch</li>
+   <li>Clone</li>
+   <li>Commit</li>
+   <li>**Fetch**</li>
+   <li>**GIT**</li>
+   <li>**Github**</li>
+   <li>Merge Conflictli>
+   <li>Pull</li>
+   <li>Remote</li>
+  <li>**Repository**</li>
+ 
   </ul>
-Branch
-Clone
-Commit
-**Fetch**
-**GIT**
-**Github**
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-**Repository**
+
+
+
+
+
+
+
+
+
+
+
 
