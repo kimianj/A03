@@ -21,6 +21,9 @@ Follow the steps below to setup your Webstorm Software:
 Part II:
 Glossary to include these terms in a bulleted list.
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+<ul>
+  <li>Branch</li>
+  </ul>
 Branch
 Clone
 Commit
