@@ -37,8 +37,8 @@ Follow the steps below to setup your Webstorm Software:
 Glossary to include these terms in a bulleted list.
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 <ul>
-  <li>Branch</li>
-   <li>Clone</li>
+  <li>Branch: alternatives to place the commits.  They give us the ability to modify the commits on that branch.</li>
+   <li>Clone: making a copy or clone of an exsiting to a new directory.</li>
    <li>Commit</li>
   <li><strong>Fetch</strong>: a program for Macintosh</li>
    <li><strong>GIT</strong></li>
