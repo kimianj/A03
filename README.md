@@ -39,14 +39,14 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 <ul>
   <li>Branch: alternatives to place the commits.  They give us the ability to modify the commits on that branch.</li>
    <li>Clone: making a copy or clone of an exsiting to a new directory.</li>
-   <li>Commit</li>
+   <li>Commit: command that helps the developers to save thier works in the repository.</li>
   <li><strong>Fetch</strong>: a program for Macintosh</li>
-   <li><strong>GIT</strong></li>
-   <li><strong>Github</strong></li>
-   <li>Merge Conflict</li>
-   <li>Pull</li>
-   <li>Remote</li>
-  <li><strong>Repository</strong></li>
+   <li><strong>GIT</strong>: a free open source that helps developers to store thier code in reposetory and be able to manage them easily by using different commands.</li>
+   <li><strong>Github</strong>: It is a web-based service that gives the users to work with thier Git reposetories. </li>
+   <li>Merge Conflict: it is a confliction that happens in the git when git cannot find the difference between the codes and the commands. </li>
+   <li>Pull: It is a command that downloads the information and content from the remote repositories.</li>
+   <li>Remote: It is a command that helps the developers to modify, create, delete, and view connections with other repositories. </li>
+  <li><strong>Repository</strong>: a file that is placed in the project.  It can track all of the changes that has been made in the file.</li>
  
   </ul>
 
